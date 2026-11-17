@@ -1,0 +1,27 @@
+{
+  "user_id": 1,
+  "name": "Molly Morgan",
+  "country": "Burundi",
+  "city": "North Shannonside",
+  "role": "Engineer",
+  "department": "Marketing",
+  "education": "PhD",
+  "age": 54,
+  "gender": "Male",
+  "marital_status": "Single",
+  "experience_years": 13,
+  "skills": [
+    "C++"
+  ],
+  "languages": [
+    "Chinese",
+    "French"
+  ],
+  "hobbies": [
+    "Sports",
+    "Traveling"
+  ],
+  "salary": 129934.96,
+  "email": "jamesjames@example.org",
+  "phone": "672-401-8174x15626"
+}

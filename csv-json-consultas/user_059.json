@@ -1,0 +1,28 @@
+{
+  "user_id": 59,
+  "name": "Jeremiah Short",
+  "country": "Nigeria",
+  "city": "Wilsonstad",
+  "role": "Consultant",
+  "department": "Finance",
+  "education": "PhD",
+  "age": 40,
+  "gender": "Male",
+  "marital_status": "Divorced",
+  "experience_years": 2,
+  "skills": [
+    "Project Management",
+    "Data Analysis"
+  ],
+  "languages": [
+    "German",
+    "Chinese",
+    "Spanish"
+  ],
+  "hobbies": [
+    "Music"
+  ],
+  "salary": 32864.62,
+  "email": "luis91@example.net",
+  "phone": "838.523.9329x590"
+}
